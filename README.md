@@ -8,8 +8,13 @@ Anti-Money Laundering
 |2018|Scalable Graph Learning for Anti-Money Laundering: A First Look|NeurIPS workshop|[Link](https://arxiv.org/pdf/1812.00076.pdf)||
 |2020|Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection|AAAI|[Link](https://ojs.aaai.org/index.php/AAAI/article/view/5371)||
 |2021|Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field|AAAI|[Link](https://ojs.aaai.org/index.php/AAAI/article/view/16582)||
-|20|||[Link]()|[Link]()|
-|20|||[Link]()|[Link]()|
-|20|||[Link]()|[Link]()|
-|20|||[Link]()|[Link]()|
-|20|||[Link]()|[Link]()|
+|2019|GeniePath: Graph Neural Networks with Adaptive Receptive Paths|AAAI|[Link](https://ojs.aaai.org/index.php/AAAI/article/view/4354)||
+|20|||||
+|20|||||
+|20|||||
+|20|||||
+|20|||||
+
+
+
+[Link]()
